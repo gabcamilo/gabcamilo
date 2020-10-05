@@ -22,6 +22,8 @@ I'm passionate about learning new technologies. Those are some I'm enjoying to l
   <a href="https://www.docker.com/"> ![Docker Badge](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=blue)<a/>
   <a href="https://redux.js.org/"> ![Redux Badge](https://img.shields.io/badge/-Redux-black?&style=flat&logo=redux&logoColor=4C35E3)<a/>
   <a href="https://jestjs.io/"> ![Jest Badge](https://img.shields.io/badge/-Jest-black?style=flat&logo=jest&logoColor=c21325)<a/>
+  <a href="https://www.java.com/"> ![Java Badge](https://img.shields.io/badge/-Java-black?&style=flat&logo=java&logoColor=007396)<a/>
+  <a href="https://spring.io"> ![Spring Badge](https://img.shields.io/badge/-Spring-black?&style=flat&logo=spring&logoColor=6DB33F)<a/>
 
 I also enjoy learning the fundamentals of computer science and lower-level languages such as **C**, **Arduino**, and everything I can mess around with. :stuck_out_tongue:
 
