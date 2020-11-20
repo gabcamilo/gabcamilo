@@ -9,7 +9,7 @@ I'm Gabriela Camilo, software developer, graduated at São Paulo State Universit
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabccamilo.dev@gmail.com)](mailto:gabccamilo.dev@gmail.com)
 
 I currently work mainly with **ReactJS**.
-At my current job, I also work on ASP.Net MVC applications.
+At my job, I also work on ASP.Net MVC applications.
 Those are some technologies which I'm Already comfortable working with and use professionally:
 
   <a href="https://pt-br.reactjs.org//"> ![React Badge](https://img.shields.io/badge/-React-black?style=black&logo=react&logoColor=61DAFB)<a/> 
