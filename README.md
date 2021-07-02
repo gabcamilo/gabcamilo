@@ -13,7 +13,7 @@ Those are the main technologies I program with:
  <a href="https://spring.io"> ![Spring Badge](https://img.shields.io/badge/-Spring-black?&style=flat&logo=spring&logoColor=6DB33F)<a/>
  <a href="https://www.docker.com/"> ![Docker Badge](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=blue)<a/> 
   
-I'm passionate about learning new technologies. Those are some I'm enjoying to learn these days:
+I'm passionate about learning new subjects. Those are some I'm enjoying these days:
    
   <a href="https://kafka.apache.org"> ![Kafka Badge](https://img.shields.io/badge/-Kafka-black?style=flat&logo=apachekafka&logoColor=FFFFFF)<a/>
   <a href="https://kotlinlang.org"> ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin&logoColor=0095D5)<a/>
