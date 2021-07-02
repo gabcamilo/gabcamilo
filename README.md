@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I'm Gabriela Camilo, software developer, graduated at São Paulo State University - Unesp.
+I'm **Gabriela Camilo**, software developer, graduated at São Paulo State University - Unesp.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabcamilo)](https://github.com/gabcamilo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabccamilo/)](https://www.linkedin.com/in/gabccamilo/)
 [![Twitter Badge](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fgabcamilo)](https://twitter.com/gabcamilo)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabccamilo.dev@gmail.com)](mailto:gabccamilo.dev@gmail.com)
 
-Those are the main technologies I currently use the most:
+Those are the main technologies I program with:
 
  <a href="https://www.java.com/"> ![Java Badge](https://img.shields.io/badge/-Java-black?&style=flat&logo=java&logoColor=007396)<a/>
  <a href="https://spring.io"> ![Spring Badge](https://img.shields.io/badge/-Spring-black?&style=flat&logo=spring&logoColor=6DB33F)<a/>
