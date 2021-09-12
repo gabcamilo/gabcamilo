@@ -14,7 +14,8 @@ Those are the main technologies I program with:
  <a href="https://www.docker.com/"> ![Docker Badge](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=blue)<a/> 
   
 I'm passionate about learning new subjects. Those are some I'm enjoying these days:
-   
+  
+  <a href="https://github.com/features/actions"> ![GitHub Actions Badge](https://img.shields.io/badge/-GitHub_Actions-black?style=flat&logo=githubactions&logoColor=2088FF)<a/>
   <a href="https://kafka.apache.org"> ![Kafka Badge](https://img.shields.io/badge/-Kafka-black?style=flat&logo=apachekafka&logoColor=FFFFFF)<a/>
   <a href="https://kotlinlang.org"> ![Kotlin Badge](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin&logoColor=0095D5)<a/>
   <a href="https://kubernetes.io"> ![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=kubernetes&logoColor=326CE5)<a/>
